@@ -16,3 +16,12 @@ C:\Users\ALEX\Desktop\TA2-Evolucion\NUnitTestProject\bin\Debug\nunit.framework.x
 C:\Users\ALEX\Desktop\TA2-Evolucion\NUnitTestProject\obj\Debug\NUnitTestProject.csprojResolveAssemblyReference.cache
 C:\Users\ALEX\Desktop\TA2-Evolucion\NUnitTestProject\obj\Debug\NUnitTestProject.dll
 C:\Users\ALEX\Desktop\TA2-Evolucion\NUnitTestProject\obj\Debug\NUnitTestProject.pdb
+C:\Users\ALEX\Desktop\TA2\NUnitTestProject\bin\Debug\NUnitTestProject.dll
+C:\Users\ALEX\Desktop\TA2\NUnitTestProject\bin\Debug\NUnitTestProject.pdb
+C:\Users\ALEX\Desktop\TA2\NUnitTestProject\bin\Debug\nunit.framework.dll
+C:\Users\ALEX\Desktop\TA2\NUnitTestProject\bin\Debug\TA2-Evolucion.exe
+C:\Users\ALEX\Desktop\TA2\NUnitTestProject\bin\Debug\TA2-Evolucion.pdb
+C:\Users\ALEX\Desktop\TA2\NUnitTestProject\bin\Debug\nunit.framework.xml
+C:\Users\ALEX\Desktop\TA2\NUnitTestProject\obj\Debug\NUnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\ALEX\Desktop\TA2\NUnitTestProject\obj\Debug\NUnitTestProject.dll
+C:\Users\ALEX\Desktop\TA2\NUnitTestProject\obj\Debug\NUnitTestProject.pdb

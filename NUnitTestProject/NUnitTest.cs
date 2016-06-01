@@ -30,7 +30,7 @@ namespace NUnitTestProject
         public void TestRestar()
         {
             TestClass objeto = new TestClass();
-            Assert.AreNotEqual(4, objeto.Restar(8, 2));
+            Assert.AreNotEqual(5, objeto.Restar(8, 2));
         }
 
         [Test]
