@@ -148,7 +148,7 @@ namespace TA2_Evolucion
         {
             try
             {
-                SqlConnection cn = new SqlConnection("Server=.;Database=Producto;Trusted_Connection=true;");
+                SqlConnection cn = new SqlConnection("Server=localhost;Database=Producto;Trusted_Connection=true;");
                 return cn;
             }
             catch (Exception ex)
