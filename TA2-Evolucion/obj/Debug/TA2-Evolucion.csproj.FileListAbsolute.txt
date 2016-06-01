@@ -1,0 +1,11 @@
+C:\Users\ALEX\Documents\Visual Studio 2015\Projects\TA2-Evolucion\TA2-Evolucion\TA2-Evolucion\bin\Debug\TA2-Evolucion.exe.config
+C:\Users\ALEX\Documents\Visual Studio 2015\Projects\TA2-Evolucion\TA2-Evolucion\TA2-Evolucion\obj\Debug\TA2-Evolucion.csprojResolveAssemblyReference.cache
+C:\Users\ALEX\Documents\Visual Studio 2015\Projects\TA2-Evolucion\TA2-Evolucion\TA2-Evolucion\bin\Debug\TA2-Evolucion.exe
+C:\Users\ALEX\Documents\Visual Studio 2015\Projects\TA2-Evolucion\TA2-Evolucion\TA2-Evolucion\bin\Debug\TA2-Evolucion.pdb
+C:\Users\ALEX\Documents\Visual Studio 2015\Projects\TA2-Evolucion\TA2-Evolucion\TA2-Evolucion\obj\Debug\TA2-Evolucion.exe
+C:\Users\ALEX\Documents\Visual Studio 2015\Projects\TA2-Evolucion\TA2-Evolucion\TA2-Evolucion\obj\Debug\TA2-Evolucion.pdb
+C:\Users\ALEX\Desktop\TA2-Evolucion\TA2-Evolucion\bin\Debug\TA2-Evolucion.exe.config
+C:\Users\ALEX\Desktop\TA2-Evolucion\TA2-Evolucion\bin\Debug\TA2-Evolucion.exe
+C:\Users\ALEX\Desktop\TA2-Evolucion\TA2-Evolucion\bin\Debug\TA2-Evolucion.pdb
+C:\Users\ALEX\Desktop\TA2-Evolucion\TA2-Evolucion\obj\Debug\TA2-Evolucion.exe
+C:\Users\ALEX\Desktop\TA2-Evolucion\TA2-Evolucion\obj\Debug\TA2-Evolucion.pdb

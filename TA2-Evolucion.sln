@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TA2-Evolucion", "TA2-Evolucion\TA2-Evolucion.csproj", "{2090EFA6-38F2-42EC-AD1E-69C5637D1C6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestProject", "NUnitTestProject\NUnitTestProject.csproj", "{BC236D17-CA70-43CE-AD12-54BCBE8B2523}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2090EFA6-38F2-42EC-AD1E-69C5637D1C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2090EFA6-38F2-42EC-AD1E-69C5637D1C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2090EFA6-38F2-42EC-AD1E-69C5637D1C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2090EFA6-38F2-42EC-AD1E-69C5637D1C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC236D17-CA70-43CE-AD12-54BCBE8B2523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC236D17-CA70-43CE-AD12-54BCBE8B2523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC236D17-CA70-43CE-AD12-54BCBE8B2523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC236D17-CA70-43CE-AD12-54BCBE8B2523}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

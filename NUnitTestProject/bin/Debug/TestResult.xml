@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\ALEX\Desktop\TA2-Evolucion\NUnitTestProject\bin\Debug\NUnitTestProject.dll" total="18" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-06-01" time="07:15:30">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8689" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="LENOVO-PC" user="ALEX" user-domain="Lenovo-PC" />
+  <culture-info current-culture="es-ES" current-uiculture="es-ES" />
+  <test-suite type="Assembly" name="C:\Users\ALEX\Desktop\TA2-Evolucion\NUnitTestProject\bin\Debug\NUnitTestProject.dll" executed="True" result="Success" success="True" time="0.559" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="NUnitTestProject" executed="True" result="Success" success="True" time="0.552" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="NUnitTest" executed="True" result="Success" success="True" time="0.551" asserts="0">
+            <results>
+              <test-case name="NUnitTestProject.NUnitTest.TestBuscarProductoPorCodigo" executed="True" result="Success" success="True" time="0.168" asserts="4" />
+              <test-case name="NUnitTestProject.NUnitTest.TestBuscarProductoPorNombre" executed="True" result="Success" success="True" time="0.001" asserts="4" />
+              <test-case name="NUnitTestProject.NUnitTest.TestDivision" executed="True" result="Success" success="True" time="0.006" asserts="1" />
+              <test-case name="NUnitTestProject.NUnitTest.TestGetCantidadProductos" executed="True" result="Success" success="True" time="0.306" asserts="1" />
+              <test-case name="NUnitTestProject.NUnitTest.TestGetDato" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="NUnitTestProject.NUnitTest.TestGetLetra" executed="True" result="Success" success="True" time="0.005" asserts="1" />
+              <test-case name="NUnitTestProject.NUnitTest.TestGetLista" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+              <test-case name="NUnitTestProject.NUnitTest.TestGetListaNombres" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="NUnitTestProject.NUnitTest.TestGetProductoPorCodigo" executed="True" result="Success" success="True" time="0.006" asserts="3" />
+              <test-case name="NUnitTestProject.NUnitTest.TestIngresoDato" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="NUnitTestProject.NUnitTest.TestMayorA10" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="NUnitTestProject.NUnitTest.TestNumeroEncontrado" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="NUnitTestProject.NUnitTest.TestProductoExiste" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+              <test-case name="NUnitTestProject.NUnitTest.TestRestar" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="NUnitTestProject.NUnitTest.TestSeModificoProducto" executed="True" result="Success" success="True" time="0.008" asserts="1" />
+              <test-case name="NUnitTestProject.NUnitTest.TestSumar" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="NUnitTestProject.NUnitTest.TestValidarDescripcion" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="NUnitTestProject.NUnitTest.TestValidarNombre" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
